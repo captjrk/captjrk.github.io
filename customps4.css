@@ -19,7 +19,7 @@
     width: 588px;
     height: 90px;
     position: absolute;
-    left: 109px;
+    left: 406px;
 }
 
 .custom .trigger {
@@ -34,7 +34,8 @@
 }
 
 .custom .trigger.right {
-    float: right;
+    position: absolute;
+    right: 298px;
     background-position-x: 99px;
 }
 
@@ -49,7 +50,7 @@
     position: absolute;
     width: 588px;
     height: 23px;
-    left: 410px;
+    left: 405px;
     top: 94px;
 }
 
