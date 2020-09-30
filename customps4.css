@@ -1,3 +1,8 @@
+html, body {
+    font-family: 'Source Sans Pro', sans-serif;
+    background: #797674;
+    overflow-y: hidden;
+}
 /*BEGIN PS4 Controller Styling*/
 .controller.custom {
     background: url(https://i.imgur.com/CR5HrdV.png);
